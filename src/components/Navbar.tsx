@@ -34,10 +34,12 @@ const Navbar: React.FC = () => {
   }, []);
 
   const navLinks: NavLink[] = [
-    { href: "#beranda", label: "Home" },
-    { href: "#tentang", label: "About" },
-    { href: "#proyek", label: "Project" },
-    { href: "#kontak", label: "Contact" },
+    { href: "#home", label: "Home" },
+    { href: "#about", label: "About" },
+    { href: "#tools", label: "My Skills" },
+    { href: "#project", label: "Project" },
+    { href: "#testimonials", label: "Testimonial" },
+    { href: "#contact", label: "Contact" },
   ];
 
   return (

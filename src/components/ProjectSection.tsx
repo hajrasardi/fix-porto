@@ -6,7 +6,7 @@ import type { Proyek } from "@/app/data";
 
 const ProjectsSection = () => {
   return (
-    <section className="proyek mt-32 py-10" id="proyek">
+    <section className="proyek mt-32 py-10" id="project">
       <h1
         className="text-center text-4xl font-bold mb-2"
         data-aos="fade-up"

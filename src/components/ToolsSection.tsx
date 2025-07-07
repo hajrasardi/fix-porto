@@ -6,7 +6,7 @@ import type { Tool } from "@/app/data";
 
 const SkillsSection = () => {
   return (
-    <section className="tools mt-32">
+    <section className="tools mt-32" id="tools">
       <h1 className="text-4xl font-bold mb-4">My Skills</h1>
       <p className="xl:w-2/5 lg:w-2/4 md:w-2/3 sm:w-3/4 w-full text-base opacity-50">
         Here are some tools I commonly use...

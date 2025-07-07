@@ -5,7 +5,7 @@ import DataImage from "@/app/data";
 
 const AboutSection = () => {
   return (
-    <section className="tentang mt-32 py-10" id="tentang">
+    <section className="tentang mt-32 py-10" id="about">
       <div
         className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg"
         data-aos="fade-up"

@@ -11,9 +11,9 @@ const Footer: React.FC = () => {
 
       {/* Navigation Links */}
       <div className="flex gap-7">
-        <Link href="#beranda">Home</Link>
-        <Link href="#tentang">About</Link>
-        <Link href="#proyek">Project</Link>
+        <Link href="#home">Home</Link>
+        <Link href="#about">About</Link>
+        <Link href="#project">Project</Link>
       </div>
 
       {/* Social Icons (gunakan Remix Icon di index.html atau _app.tsx) */}

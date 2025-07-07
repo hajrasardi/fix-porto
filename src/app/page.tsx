@@ -23,7 +23,9 @@ function Home() {
           <h1 className="text-5xl font-bold mb-6">Hi, I am Hajra Sardi</h1>
           <p className="text-base mb-6 opacity-50">
             I specialize in web development that utilizes HTML, CSS, JS and
-            REACT etc...
+            REACT etc. I am a highly motivated individual and eternal optimist
+            dedicated to writing clear, concise, robust code that works.
+            Striving to never stop learning and improving.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
@@ -67,7 +69,14 @@ function Home() {
             className="w-12 rounded-md mb-10 sm:hidden"
           />
           <p className="text-base mb-10">
-            My name is Hajra and I specialize in web development...
+            My name is Hajra and I specialize in web development that utilizes
+            HTML, CSS, JS and REACT etc. I am a highly motivated individual and
+            eternal optimist dedicated to writing clear, concise, robust code
+            that works. Striving to never stop learning and improving. When
+            I&apos;m not coding, I am writing blogs, reading, or picking up some
+            new hands-on art project like photography. I like to have my
+            perspective and belief systems challenged so that I see the world
+            through new eyes.{" "}
           </p>
           <div className="flex items-center justify-between">
             <Image
